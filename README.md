@@ -1,4 +1,8 @@
-# MyReads Project
+# MyReads: A Book Tracking App
+
+Udacity front end developer nanodegree
+
+### Instructions
 
 * Clone or download this repository
 * Go to that directory
