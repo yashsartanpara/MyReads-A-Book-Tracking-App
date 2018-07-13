@@ -2,6 +2,10 @@
 
 Udacity front end developer nanodegree
 
+Manage your books ona bookshelf. Change book's label (read, want to read and reading).
+
+live demo - https://yashsartanpara.github.io/MyReads-A-Book-Tracking-App-React/
+
 ### Instructions
 
 * Clone or download this repository
